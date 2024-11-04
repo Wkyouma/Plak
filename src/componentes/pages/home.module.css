@@ -28,7 +28,7 @@
       rgba(20, 24, 28, 0.3) 50%,
       rgba(20, 24, 28, 0.8) 100%
     ),
-    url('https://cdn.discordapp.com/attachments/706148419479273495/1302701257475100752/wallpaperflare.com_wallpaper.jpg?ex=67291296&is=6727c116&hm=cc30d086f7a613905daccde83411394e2cd87b3959057d997fa49c1a62836048&');
+    url('../../../wallpaper_plak.jpg');
   background-size: cover;
   background-position: center;
 }
